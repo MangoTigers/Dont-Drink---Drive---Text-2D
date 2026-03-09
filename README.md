@@ -33,7 +33,7 @@ Spilleren styrer en bil samtidig som hen blir presset til å drikke og svare på
 
 **Installasjon (Windows):**
 ```powershell
-cd c:\Users\olr\UGNASync\DontDrinkDriveText2D
+cd c:\[Filplaseringen]\DontDrinkDriveText2D
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
@@ -116,7 +116,7 @@ python main.py
 
 ## Mermaid Flytskjema: Dont Drink & Drive & Text
 
-Kopier koden under og lim inn på [mermaid.live](https://mermaid.live) eller i en Markdown-fil med Mermaid-støtte.
+
 
 ---
 
